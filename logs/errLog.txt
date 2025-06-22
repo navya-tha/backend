@@ -1,0 +1,53 @@
+19:06:2025	22:25:23	9809f6e1-010f-4b61-a4c5-006941555c24	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\index.html'
+19:06:2025	22:25:23	bc27d2e0-ad88-4538-af49-59568452e8c4	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:25:33	a08bcfd7-c6c1-4dc7-8927-4cc9392358ba	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:25:33	4edc7004-2792-467a-adbd-dd318dbb1557	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:25:35	3d4bf4ec-399a-485d-8526-9efd17881442	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:25:35	22c0a994-2c9c-47f1-973a-51577978444a	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:25:39	dbfc56fb-9541-41dd-bd79-864242463216	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:25:39	2c58dd73-dcb8-48a3-9639-3eb8fb0b1a15	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:26:35	3147ddaf-1f1c-4260-b49e-29c46a196da6	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\index.html'
+19:06:2025	22:26:35	1d5d09a7-4a23-4a6a-a131-1d6c3f1230f4	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:28:43	ce794076-9435-4029-a8bd-287516134f03	NotFoundError:Not Found
+19:06:2025	22:28:44	bc4ecd51-4d1c-4c50-9a23-40c38a738dc6	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:43:45	c99bcb8b-4706-4b3f-9400-4be77eadffcb	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:43:45	702e69f4-63df-4e83-a217-5341402f384f	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:43:47	1d06500a-31c4-4b13-b554-1b22b9e0d6a3	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+19:06:2025	22:43:47	2ed881be-a384-4d35-841e-ee507cccbb54	Error:ENOENT: no such file or directory, stat 'C:\Users\navya\OneDrive\nodejs\views\404.html'
+20:06:2025	12:01:50	60e997e3-5d81-4fab-8577-5421e0d28c6c	TypeError:Cannot read properties of undefined (reading 'id')
+20:06:2025	12:02:09	3f31fd24-c9cf-4bda-adb8-34d03973ba69	TypeError:Cannot read properties of undefined (reading 'id')
+20:06:2025	13:22:01	20618939-006d-43ed-9184-8ad8475bc4ba	ReferenceError:getEventListeners is not defined
+20:06:2025	13:22:07	4b1d8f27-a180-46c9-8d57-e8de9eba3d13	ReferenceError:getEventListeners is not defined
+20:06:2025	13:22:40	e7adc9ad-27dc-4a23-9f96-1882c0332fe5	ReferenceError:getEventListeners is not defined
+20:06:2025	17:31:46	226ebf7f-02b2-445a-a81a-479d6ceeffcc	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+20:06:2025	17:45:01	7c6166b5-7030-44c6-aefd-faf24a897b9c	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+20:06:2025	17:49:45	0beb9d88-f40f-463b-984b-23e7594702a3	Error:Cannot set headers after they are sent to the client
+20:06:2025	18:38:56	967e2e0f-97fa-4552-874e-c3d5b6a2a3b4	TypeError:Cannot read properties of undefined (reading 'split')
+20:06:2025	18:39:16	de837fe2-dc32-452a-9db4-dff1d8bc9a21	TypeError:Cannot read properties of undefined (reading 'split')
+20:06:2025	22:43:53	7d794c77-fd5e-4380-8a41-6f4f9ca5a74d	TypeError:Cannot read properties of undefined (reading 'split')
+20:06:2025	22:46:42	65f3af5f-eb59-4f08-ab97-83430db7cefe	TypeError:Cannot read properties of undefined (reading 'split')
+20:06:2025	22:47:01	f6d6d690-5f94-4451-92e7-3ede17f5f790	TypeError:Cannot read properties of undefined (reading 'split')
+20:06:2025	22:47:23	fa4cdec5-ff7b-49f9-945f-cd9eb6464c24	TypeError:Cannot read properties of undefined (reading 'split')
+20:06:2025	22:48:56	4fc7ec0a-4c45-4fb5-90e5-818987822513	Error:Cannot set headers after they are sent to the client
+20:06:2025	22:51:41	240eeef7-3709-4c3e-ac99-4f8b8ce58e11	Error:Cannot set headers after they are sent to the client
+20:06:2025	22:54:01	d7964cd3-d8bb-464f-ae14-d1ee47089d07	Error:Cannot set headers after they are sent to the client
+21:06:2025	13:20:37	f546ca6a-cb99-4adf-b862-31021659ea35	TypeError:userDB.users.find is not a function
+21:06:2025	13:21:04	55f36ec7-6ba1-4d7e-8da9-d012c22ff12d	TypeError:userDB.users.find is not a function
+21:06:2025	13:28:22	f8239f74-3ed7-4319-80ba-d8c6dcbfcb43	TypeError:userDB.users.find is not a function
+21:06:2025	13:28:52	b922cf9e-fa52-44f2-a7a9-c6a1eddbbc48	TypeError:userDB.users.find is not a function
+21:06:2025	13:29:54	4405ac28-41d3-44f7-9ecb-394f946511e6	TypeError:userDB.users.find is not a function
+21:06:2025	16:41:21	7ae4156c-b195-42d5-87b2-c72bba62bb7d	Error:Cannot set headers after they are sent to the client
+21:06:2025	17:51:17	bfc4dc3a-849e-4840-9779-8c94ccb8d7b1	SyntaxError:Expected double-quoted property name in JSON at position 38 (line 6 column 1)
+21:06:2025	17:51:34	356e7c9c-c59d-4c9b-b819-1d0b50afbf84	Error:Cannot set headers after they are sent to the client
+21:06:2025	17:52:29	bec45c6d-1075-42c4-9337-f2db4e8ef3f7	Error:Cannot set headers after they are sent to the client
+21:06:2025	17:52:48	c8b780c4-d3a8-451f-9c21-24f7b8dcb5d6	Error:Cannot set headers after they are sent to the client
+21:06:2025	17:53:06	d28ebac5-f580-4411-832c-e3cb5274b4b7	Error:Cannot set headers after they are sent to the client
+21:06:2025	22:03:25	913cfebf-dc45-4a67-a1a8-c7948a9a2408	Error:Cannot set headers after they are sent to the client
+21:06:2025	22:04:23	efdc29ea-a4f7-411c-9a9d-18bb3dcd9a8d	Error:Cannot set headers after they are sent to the client
+21:06:2025	22:04:41	d24a3034-4b6c-4d01-ad6e-ff054c9b83ff	Error:Cannot set headers after they are sent to the client
+21:06:2025	22:04:59	7418e3ef-9071-493b-9238-0aeea629c6c2	Error:Cannot set headers after they are sent to the client
+22:06:2025	09:10:51	9d7d4510-ef6b-4b91-b367-cdcb05265e0a	Error:Cannot set headers after they are sent to the client
+22:06:2025	09:11:15	af5d5133-1c74-485e-9848-9182831dfdec	Error:Cannot set headers after they are sent to the client
+22:06:2025	09:11:28	0a8f0f65-bb40-4a98-bd36-371d92bfe512	Error:Cannot set headers after they are sent to the client
+22:06:2025	09:13:44	ce5e179b-6ebb-4df7-a5a8-664761a27671	Error:Cannot set headers after they are sent to the client
+22:06:2025	09:15:43	4ed1bb36-08e6-41af-8de1-a99d7784a3bb	Error:Cannot set headers after they are sent to the client
