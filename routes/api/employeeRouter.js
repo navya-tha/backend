@@ -7,6 +7,8 @@ const verifyRoles= require('../../middleware/verifyRoles')
 const{getAllEmployees,updateEmployee,createEmployee,deleteEmployee,getEmployee}=require('../../controllers/empController')
 const ROLES_LIST = require('../../config/roles_list')
 
+employeeRouter.use(verifyJWT);
+
 employeeRouter.route('/')
     .get(getAllEmployees)
     .put(verifyRoles(ROLES_LIST.Admin,ROLES_LIST.Editor),updateEmployee)
